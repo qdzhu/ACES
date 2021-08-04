@@ -1,0 +1,15 @@
+NewHavenCT, longitude = -72.9029 latitude = 41.3014
+BoulderCO, longitude = -105.26000000000002 latitude = 39.99
+BronxNY, longitude = -73.8781 latitude = 40.8679
+GreenbeltMD, longitude= -76.8396, latitude= 38.9926
+MaunaLoaHI, longitude = -155.6027 latitude = 19.4795
+CharlesCityVA, longitude = -77.2057 latitude = 37.326
+FairbanksAK, longitude= -147.8499, latitude= 64.8594
+ManhattanNY_CCNY, longitude= -73.9505, latitude= 40.8153
+NewBrunswickNJ, longitude = -74.4294 latitude = 40.4622
+MountainViewCA, longitude = -122.0568 latitude = 37.42
+QueensNY, longitude = -73.8215 latitude = 40.7361
+OldFieldNY, longitude = -73.1402 latitude = 40.9635
+RichmondCA, longitude = -122.33600000000001 latitude = 37.913
+WrightwoodCA, longitude = -117.68129999999998 latitude = 34.3819
+WestportCT, longitude = -73.3367 latitude = 41.1183
